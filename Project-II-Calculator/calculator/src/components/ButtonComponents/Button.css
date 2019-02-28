@@ -18,7 +18,7 @@
 }
 
 .number {
-    width: 33%;
+    width: 33.33%;
     height: 90px;
 
     border: 1px solid gray;
@@ -35,7 +35,7 @@
 }
 
 .operator {
-    widows: 120px;
+    width: 120px;
     height: 90px;
 
     background-color: #A0001F;
