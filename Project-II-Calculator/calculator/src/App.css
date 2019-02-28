@@ -1,0 +1,8 @@
+.App {
+    box-sizing: border-box;
+    max-width: 450px;
+    height: 580px;
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+}
