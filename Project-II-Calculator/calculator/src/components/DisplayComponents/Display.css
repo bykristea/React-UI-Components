@@ -1,5 +1,6 @@
 .CalculatorDisplay {
     height: 120px;
+    /* width: 433px; */
     border: 1px solid gray;
     background-color: black;
     color: white;
